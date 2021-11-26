@@ -5,3 +5,13 @@ console.log(Math.max(...arr1));
 console.log(Math.min(...arr1));
 
 // = 69 , 12 
+
+
+let a = 4 , b = 6
+let result = Math.pow(a, b)
+console.log(result);
+
+// 
+
+let a  = 4 , b = 2;
+console.log(a ** b);
